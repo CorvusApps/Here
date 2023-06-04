@@ -12,7 +12,7 @@ import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
-
+// The two imports above cannot resolve if update androidx.navigation:navigation-ui:2.3.0' to 2.5
 import com.pelotheban.here.databinding.ActivityMainBinding;
 
 import android.view.Menu;
